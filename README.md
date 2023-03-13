@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**thejoshbird/thejoshbird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Josh and i'm a Predictive Analytics student at Curtin University in Perth, WA.
 
-Here are some ideas to get you started:
+Work Experience:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Data Analyst at Bruining Partners - Focussing on developing revenue models using Excel, and data visualisation using Power BI
+
+- Business Analyst intern at Australian Financial Group - Developed skills in SQL and Python
+
+- Assistant Accountant at Pioneer Credit Solutions - Aided in completing daily transactional procedures as well as end of month reconciliation reports.
+
+
+Interests: 
+- Financial Analysis
+- Analysing sporting data
+- Applying machine learning where machine learning should not be applied. 
+
+Reach me on LinkedIn @ https://www.linkedin.com/in/joshuaalecbird/
